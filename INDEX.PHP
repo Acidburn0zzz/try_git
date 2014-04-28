@@ -1,7 +1,7 @@
 // TRY GIT //
 
-print "Readme.doc"
-url=try_git/Readme.txt
-href=try_git/Readme.doc
+print "README.TXT"
+url=try_git/README.DOC
+href=try_git/README.DOC
 
 
